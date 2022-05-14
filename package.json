@@ -1,0 +1,24 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Projeto de TypeScript - Hiring Coders - Gama Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasjmlara/TS_Hiring_Coders.git"
+  },
+  "keywords": [],
+  "author": "Lucas Lara <lucasjosemartinsdelara@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasjmlara/TS_Hiring_Coders/issues"
+  },
+  "homepage": "https://github.com/lucasjmlara/TS_Hiring_Coders#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
